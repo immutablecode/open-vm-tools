@@ -1,6 +1,8 @@
 open-vm-tools
 =============
 
+![Docker](https://github.com/immutablecode/open-vm-tools/workflows/Docker/badge.svg)
+
 A fedora-minimal based open-vm-tools container image for use inside Fedora CoreOS VMware VMs.
 
 Useful as an alternative to installing open-vm-tools on Fedora CoreOS using rpm-ostree (which requires a reboot). 
